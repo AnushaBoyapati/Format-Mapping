@@ -34,5 +34,17 @@ Step 2 : Open postman
 https://github.com/AnushaBoyapati/Format-Mapping/issues/1#issue-671924492
 #set all the felids as shown 
 #link on the send ,it display an output
+https://github.com/AnushaBoyapati/Format-Mapping/issues/2#issue-671930352
+
+#Logic : Used Fuzzy.partial_ratio to mapp and calucalate the confidence
+
+#Same for the rest API2 and API3
+API2 :
+Input : Source,target,Mappings. # output of API1 : Mapping will be the input of API2
+Output :
+
+    
+
+
 
 
