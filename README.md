@@ -31,3 +31,8 @@ Step 1 : Open the cmd
 C:\Users\abhinaychowdary.LENOVO-PC\Downloads\Mapping\map_field>py runserver.py
 
 Step 2 : Open postman
+https://github.com/AnushaBoyapati/Format-Mapping/issues/1#issue-671924492
+#set all the felids as shown 
+#link on the send ,it display an output
+
+
