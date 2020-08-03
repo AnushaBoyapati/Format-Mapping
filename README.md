@@ -41,7 +41,11 @@ https://github.com/AnushaBoyapati/Format-Mapping/issues/2#issue-671930352
 #Same for the rest API2 and API3
 API2 :
 Input : Source,target,Mappings. # output of API1 : Mapping will be the input of API2
-Output :
+Output :https://github.com/AnushaBoyapati/Format-Mapping/issues/3#issuecomment-667914930
+
+#API3 :
+Input :Source,Target
+Output : 
 
     
 
