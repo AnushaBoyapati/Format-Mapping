@@ -14,4 +14,20 @@ Output : messege : Learned the mappings
 Input : Source and Target
 Output : Mapping with source to target fields
 
+# Installing
+pip install fuzzywuzzy
 
+# API 1 - Matching in Supervised mode 
+Goal: Map the source and target and find the confidence(ratio) of string match.
+Using Levenshtein distan we call find the confidence of the mapping ratio.
+Here i have used FUZZY logic, based on Levenshtein Distance the fuzzy logic works.
+
+Input : Source and Target
+Output : Source, Target and Mapping
+
+#RunServer
+
+Step 1 : Open the cmd 
+C:\Users\abhinaychowdary.LENOVO-PC\Downloads\Mapping\map_field>py runserver.py
+
+Step 2 : Open postman
