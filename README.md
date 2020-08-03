@@ -1,6 +1,9 @@
 # Format-Mapping
 Based on similarity it map the fields, It takes on Source(input) and Target(output).
 
+Views.py --> All api routes.
+worker.py --> Bussiness Problem statment solution.(Logic)
+
 #API 1 : Supervised mode :
 Input : Source and Target
 Output : Source,Target with Mapping along with confidence score 
@@ -45,7 +48,9 @@ Output :https://github.com/AnushaBoyapati/Format-Mapping/issues/3#issuecomment-6
 
 #API3 :
 Input :Source,Target
-Output : 
+Output :https://github.com/AnushaBoyapati/Format-Mapping/issues/4#issue-671937999
+
+..
 
     
 
